@@ -62,7 +62,14 @@ G.E. India Business Centre / Hyderabad, IN (GE IIC)
 03/2002 – 06/2005
 •	Responsible for ORCL/SAP applications support and migration projects for GE Consumer & Industrial (C&I)  
 •	Services Productization to support SAP clients Worldwide in delivering code analysis, remediation and testing packages 
-- Awarded Field Services Award for the Project Excellence at SAP Global Delivery Center (SAP GDC) 
+- Awarded G.E. Services Award & Six Sigma Certification for the Project Excellence at G.E. IIC
+- Awareed GE Building Essential Leadership skills (BELS) 
+
+Programmer Analyst 
+Consultant for the Fortune 100 companies in USA  (Clientele: Target Dayton & Hudson, US Bank, Ford Motor company & Tenfold Corporation)
+10/1996 – 01/2002
+•	Responsible for analyzing the business requirements and support IT teams to build applications   
+•	Design, Build and Deploy credit card processing applications for US Bank systems, Retail apps for Target 
 
 **Education
 **B.E Degree (Mechanical Engineering), University of Madras – April 1996
