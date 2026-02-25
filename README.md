@@ -52,8 +52,15 @@ IBM India Pvt. Ltd / Bengaluru, IN
 
 Sr. Technical Lead
 SAP India Pvt. Ltd / Bengaluru, IN (SAP Global Delivery Center) 
-03/2005 – 06/2008
+07/2005 – 06/2008
 •	Responsible for SAP Implementations, Enhancements and Upgrades  
+•	Services Productization to support SAP clients Worldwide in delivering code analysis, remediation and testing packages 
+- Awarded Field Services Award for the Project Excellence at SAP Global Delivery Center (SAP GDC) 
+
+Sr. Systems Analyst 
+G.E. India Business Centre / Hyderabad, IN (GE IIC) 
+03/2002 – 06/2005
+•	Responsible for ORCL/SAP applications support and migration projects for GE Consumer & Industrial (C&I)  
 •	Services Productization to support SAP clients Worldwide in delivering code analysis, remediation and testing packages 
 - Awarded Field Services Award for the Project Excellence at SAP Global Delivery Center (SAP GDC) 
 
