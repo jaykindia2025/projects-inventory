@@ -49,7 +49,14 @@ IBM India Pvt. Ltd / Bengaluru, IN
 •	Developed benchmark reports for the executive meeting.
 •	Demonstrated Global Delivery capabilities to the key stakeholders.
 •	Transition and adoption of SAP solutions.	
-	
+
+Sr. Technical Lead
+SAP India Pvt. Ltd / Bengaluru, IN (SAP Global Delivery Center) 
+03/2005 – 06/2008
+•	Responsible for SAP Implementations, Enhancements and Upgrades  
+•	Services Productization to support SAP clients Worldwide in delivering code analysis, remediation and testing packages 
+- Awarded Field Services Award for the Project Excellence at SAP Global Delivery Center (SAP GDC) 
+
 **Education
 **B.E Degree (Mechanical Engineering), University of Madras – April 1996
 
